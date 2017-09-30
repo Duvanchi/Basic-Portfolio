@@ -9,6 +9,7 @@
 	font-size: 25px;
 }
 
+/* This is where I define the style of the primary header*/ 
 div.thebox {
 	width: 1050px;
 	height: 55px;
@@ -21,6 +22,7 @@ div.thebox {
 	border-color: #cccccc;
 }
 
+/* This is as close as I can get the dimensions without it throwing off the rest of the page*/
 div.About {
 	width: 470px;
 	margin-left: 100px;
@@ -32,6 +34,7 @@ div.About {
 	float: left;
 }
 
+/* This is the header for the "About" section */
 #header{
 	color: #4aaaa5;
 	border-bottom: 1px;
@@ -49,6 +52,7 @@ body {
 	background-image: url("../images/cheap_diagonal_fabric.png");
 }
 
+/* Profile Picture*/
 #facepic {
 	float: left;
 	height: 200px;
@@ -56,6 +60,7 @@ body {
 	margin-right: 15px;
 }
 
+/* This is the style script for the connect box */
 div.connect {
 	float: right;
 	width: 270px;
@@ -67,6 +72,7 @@ div.connect {
 	border-style: ridge;
 }
 
+/* This is the header for the "connect" box */
 #connectheader {
 	color: #4aaaa5;
 	border-bottom: 1px;
@@ -98,6 +104,7 @@ div.connect {
 	padding-top: 15px;
 }
 
+/* Style script for the footer */
 .footer {
 	width: 1050px;
 	height: 65px;
